@@ -69,18 +69,18 @@ http://localhost:8000/api/delete/1
 python3 manage.py createsuperuser
 ```
 > my shell infos
-    ```shell
-    $ python3 manage.py createsuperuser
-    Username (leave blank to use 'panshi'):
-    Email address: panshi@gtd.com
-    Password:
-    Password (again):
-    This password is too short. It must contain at least 8 characters.
-    This password is too common.
-    This password is entirely numeric.
-    Bypass password validation and create user anyway? [y/N]: y
-    Superuser created successfully.
-    ```
+```html
+$ python3 manage.py createsuperuser</br>
+Username (leave blank to use 'panshi'): 
+Email address: panshi@gtd.com  
+Password:  
+Password (again):  
+This password is too short. It must contain at least 8 characters.  
+This password is too common.  
+This password is entirely numeric.  
+Bypass password validation and create user anyway? [y/N]: y  
+Superuser created successfully.  
+```
 
 ## Run server
 ```shell
