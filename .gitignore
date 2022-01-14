@@ -1,3 +1,7 @@
+# self ignore files
+bin/
+pyvenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
