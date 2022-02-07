@@ -91,3 +91,7 @@ python3 manage.py runserver
 ```html
 http://localhost:8000/admin
 ```
+
+## OTHERS
+- [PDM - Python Development Master](https://pdm.fming.dev/)
+- [pipx — Install and Run Python Applications in Isolated Environments](https://pypa.github.io/pipx/)
